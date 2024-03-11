@@ -42,10 +42,10 @@ Before running the project, ensure you have the following installed:
    
 ###   Built Using
 React
-- [Node.js]
-- [MongoDB]
-- [Express]
-- [Socket.IO ]
+- Node.js
+- MongoDB
+- Express
+- Socket.IO 
 
 
 # ✍️ Authors
